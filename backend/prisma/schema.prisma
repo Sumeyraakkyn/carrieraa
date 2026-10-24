@@ -1,0 +1,148 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model User {
+  id           Int      @id @default(autoincrement())
+  username     String   @unique
+  passwordHash String
+  role         Role     @default(USER)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+  evaluations  Evaluation[] @relation("UserEvaluations")
+  courses      UserCourse[]
+  documents    Document[]
+  profile      Profile?
+  passwordResets PasswordReset[]
+  notifications Notification[]
+  lastLogin    DateTime?
+  cvAnalyses   CvAnalysis[]
+}
+
+model Profile {
+  id          Int      @id @default(autoincrement())
+  userId      Int      @unique
+  fullName    String?
+  email       String?
+  phone       String?
+  birthDate   String?
+  city        String?
+  linkedin    String?
+  careerGoal  String?
+  skills      String[]
+  experiences Json?
+  educations  Json?
+  languages   Json?
+  projects    Json?
+  potentialScore Json?
+  certificates Json?
+  avatarUrl   String?
+  bannerUrl   String?
+  updatedAt   DateTime @updatedAt
+
+  user        User     @relation(fields: [userId], references: [id])
+}
+
+model Course {
+  id          String   @id // e.g. "liderlik-1"
+  category    String
+  name        String
+  description String?
+  users       UserCourse[]
+}
+
+model UserCourse {
+  id          Int      @id @default(autoincrement())
+  userId      Int
+  courseId    String
+  completedAt DateTime @default(now())
+  score       Int?
+  timeSpent   String?
+
+  user        User     @relation(fields: [userId], references: [id])
+  course      Course   @relation(fields: [courseId], references: [id])
+
+  @@unique([userId, courseId])
+}
+
+model Evaluation {
+  id          Int      @id @default(autoincrement())
+  userId      Int
+  kalite      Float
+  sorumluluk  Float
+  birligi     Float
+  zaman       Float
+  yorumlar    String?
+  tarih       String   // e.g. "15.01.2024"
+  saat        String   // e.g. "14:30:45"
+  yonetici    String
+  createdAt   DateTime @default(now())
+
+  user        User     @relation("UserEvaluations", fields: [userId], references: [id])
+}
+
+model Document {
+  id          Int      @id @default(autoincrement())
+  userId      Int
+  type        String   // e.g. "CV", "CERTIFICATE"
+  fileName    String
+  fileUrl     String
+  createdAt   DateTime @default(now())
+  status      String   @default("pending")
+
+  user        User       @relation(fields: [userId], references: [id])
+  cvAnalysis  CvAnalysis?
+}
+
+model PasswordReset {
+  id        Int      @id @default(autoincrement())
+  userId    Int
+  code      String
+  expiresAt DateTime
+  used      Boolean  @default(false)
+  createdAt DateTime @default(now())
+
+  user      User     @relation(fields: [userId], references: [id])
+}
+
+enum Role {
+  USER
+  ADMIN
+}
+
+model Notification {
+  id        Int      @id @default(autoincrement())
+  userId    Int
+  title     String
+  message   String
+  read      Boolean  @default(false)
+  createdAt DateTime @default(now())
+
+  user      User     @relation(fields: [userId], references: [id])
+}
+
+model CvAnalysis {
+  id               Int      @id @default(autoincrement())
+  documentId       Int      @unique
+  userId           Int
+  alignmentScore   Int
+  detectedSkills   Json
+  skillGap         String[]
+  rawTextLength    Int
+  analysisVersion  String   @default("1.0")
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+
+  document         Document @relation(fields: [documentId], references: [id])
+  user             User     @relation(fields: [userId], references: [id])
+}

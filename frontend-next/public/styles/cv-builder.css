@@ -1,0 +1,219 @@
+/* CV builder uses a focused editorial palette so it reads as a separate creation workspace. */
+.cv-builder-page {
+    background:
+        linear-gradient(135deg, rgba(212, 154, 58, 0.08), transparent 34%),
+        #f3f0e8;
+    min-height: 100vh;
+    padding-bottom: 56px;
+}
+
+.cv-builder-page .page-title {
+    color: #263b35;
+    font-style: normal;
+    font-size: 2.1rem;
+    letter-spacing: 0.08em;
+    margin-bottom: 12px;
+}
+
+.cv-builder-page .page-title::after {
+    content: ' Profesyonel CV bilgilerini adım adım tamamla';
+    display: block;
+    margin-top: 10px;
+    color: #7b8179;
+    font-size: 0.82rem;
+    font-weight: 500;
+    letter-spacing: 0;
+    text-transform: none;
+}
+
+.cv-builder-page .content-container {
+    max-width: 1280px;
+    gap: 24px;
+    align-items: flex-start;
+    display: block;
+}
+
+.cv-builder-page .stepper {
+    min-width: 240px;
+    border: 1px solid #e4d9c5;
+    border-radius: 8px;
+    box-shadow: 0 14px 30px rgba(62, 52, 34, 0.08);
+    background: #fffdf8;
+}
+
+.cv-builder-page .step {
+    border-radius: 6px;
+}
+
+.cv-builder-page .step:hover {
+    background: #f7eddc;
+}
+
+.cv-builder-page .step.active {
+    background: #263b35;
+}
+
+.cv-builder-page .step.active .step-label {
+    color: #fffaf0;
+}
+
+.cv-builder-page .step-number,
+.cv-builder-page .step.active .step-number {
+    border-radius: 8px;
+    background: #d49a3a;
+    box-shadow: none;
+    transform: none;
+}
+
+.cv-builder-page .step-line {
+    background: #e4d9c5;
+}
+
+.cv-builder-page .form-container {
+    border: 1px solid #e4d9c5;
+    border-radius: 8px;
+    padding: 44px 48px;
+    box-shadow: 0 14px 30px rgba(62, 52, 34, 0.08);
+    background: #fffdf8;
+}
+
+.cv-builder-page .cv-builder-progress {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    align-items: center;
+    gap: 5px 14px;
+    margin-bottom: 34px;
+    color: #7b8179;
+    font-size: 0.76rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+}
+
+.cv-builder-page .cv-builder-progress strong {
+    color: #263b35;
+    font-size: 0.95rem;
+    letter-spacing: 0;
+}
+
+.cv-builder-page .cv-builder-progress-track {
+    grid-column: 1 / -1;
+    height: 5px;
+    overflow: hidden;
+    border-radius: 99px;
+    background: #e9dfcd;
+}
+
+.cv-builder-page .cv-builder-progress-track span {
+    display: block;
+    height: 100%;
+    border-radius: inherit;
+    background: #d49a3a;
+    transition: width 0.25s ease;
+}
+
+.cv-builder-page .form-navigation {
+    margin-top: 46px;
+    border-top-color: #e4d9c5;
+}
+
+.cv-builder-page .btn-prev,
+.cv-builder-page .btn-next {
+    border-radius: 6px;
+    min-width: 128px;
+    justify-content: center;
+}
+
+.cv-builder-page .btn-prev {
+    border-color: #c9bfad;
+    color: #59645d;
+}
+
+.cv-builder-page .btn-prev:hover {
+    border-color: #263b35;
+    color: #263b35;
+}
+
+.cv-builder-page .btn-next {
+    background: #263b35;
+    box-shadow: 0 8px 16px rgba(38, 59, 53, 0.18);
+}
+
+.cv-builder-page .btn-next:hover {
+    background: #d49a3a;
+    box-shadow: 0 8px 16px rgba(212, 154, 58, 0.22);
+}
+
+.cv-builder-page .section-title {
+    color: #263b35;
+    border-bottom: 1px solid #e4d9c5;
+    padding-bottom: 14px;
+}
+
+.cv-builder-page .form-group input,
+.cv-builder-page .form-group select,
+.cv-builder-page .form-group textarea {
+    border-radius: 6px;
+    border-color: #dcd2bf;
+    background: #faf7f0;
+}
+
+.cv-builder-page .form-group input:focus,
+.cv-builder-page .form-group select:focus,
+.cv-builder-page .form-group textarea:focus {
+    border-color: #d49a3a;
+    box-shadow: 0 0 0 3px rgba(212, 154, 58, 0.15);
+}
+
+body.dark-mode .cv-builder-page {
+    background: #17211f;
+}
+
+body.dark-mode .cv-builder-page .stepper,
+body.dark-mode .cv-builder-page .form-container {
+    border-color: #35443d;
+    background: #202d29;
+}
+
+body.dark-mode .cv-builder-page .page-title,
+body.dark-mode .cv-builder-page .section-title {
+    color: #f5d28d;
+}
+
+body.dark-mode .cv-builder-page .cv-builder-progress strong {
+    color: #f5d28d;
+}
+
+body.dark-mode .cv-builder-page .cv-builder-progress-track {
+    background: #35443d;
+}
+
+body.dark-mode .cv-builder-page .form-group input,
+body.dark-mode .cv-builder-page .form-group select,
+body.dark-mode .cv-builder-page .form-group textarea {
+    border-color: #40544a;
+    background: #18231f;
+}
+
+@media (max-width: 900px) {
+    .cv-builder-page .content-container {
+        flex-direction: column;
+    }
+
+    .cv-builder-page .stepper {
+        width: 100%;
+        min-width: 0;
+    }
+
+    .cv-builder-page .form-container {
+        width: 100%;
+        padding: 28px 22px;
+    }
+
+    .cv-builder-page .cv-builder-progress {
+        grid-template-columns: 1fr;
+    }
+
+    .cv-builder-page .cv-builder-progress-track {
+        grid-column: auto;
+    }
+}

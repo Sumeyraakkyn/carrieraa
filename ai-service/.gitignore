@@ -1,0 +1,6 @@
+# Python tarafında bilgisayara özel ve yeniden üretilebilen dosyalar
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.log

@@ -1,0 +1,1521 @@
+[
+  {
+    "Calisan_ID": 206,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 84
+  },
+  {
+    "Calisan_ID": 206,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 95
+  },
+  {
+    "Calisan_ID": 207,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 72
+  },
+  {
+    "Calisan_ID": 208,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 85
+  },
+  {
+    "Calisan_ID": 208,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 75
+  },
+  {
+    "Calisan_ID": 208,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 73
+  },
+  {
+    "Calisan_ID": 209,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 79
+  },
+  {
+    "Calisan_ID": 210,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 89
+  },
+  {
+    "Calisan_ID": 210,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 74
+  },
+  {
+    "Calisan_ID": 210,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 92
+  },
+  {
+    "Calisan_ID": 211,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 82
+  },
+  {
+    "Calisan_ID": 211,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 96
+  },
+  {
+    "Calisan_ID": 211,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 83
+  },
+  {
+    "Calisan_ID": 212,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 82
+  },
+  {
+    "Calisan_ID": 212,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 91
+  },
+  {
+    "Calisan_ID": 212,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 73
+  },
+  {
+    "Calisan_ID": 213,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 75
+  },
+  {
+    "Calisan_ID": 213,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 88
+  },
+  {
+    "Calisan_ID": 213,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 97
+  },
+  {
+    "Calisan_ID": 214,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 98
+  },
+  {
+    "Calisan_ID": 214,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 93
+  },
+  {
+    "Calisan_ID": 215,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 97
+  },
+  {
+    "Calisan_ID": 215,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 84
+  },
+  {
+    "Calisan_ID": 215,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 79
+  },
+  {
+    "Calisan_ID": 216,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 71
+  },
+  {
+    "Calisan_ID": 217,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 77
+  },
+  {
+    "Calisan_ID": 217,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 88
+  },
+  {
+    "Calisan_ID": 218,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 75
+  },
+  {
+    "Calisan_ID": 218,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 80
+  },
+  {
+    "Calisan_ID": 218,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 96
+  },
+  {
+    "Calisan_ID": 219,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 70
+  },
+  {
+    "Calisan_ID": 219,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 99
+  },
+  {
+    "Calisan_ID": 219,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 93
+  },
+  {
+    "Calisan_ID": 220,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 98
+  },
+  {
+    "Calisan_ID": 220,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 89
+  },
+  {
+    "Calisan_ID": 220,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 73
+  },
+  {
+    "Calisan_ID": 221,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 89
+  },
+  {
+    "Calisan_ID": 221,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 89
+  },
+  {
+    "Calisan_ID": 222,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 78
+  },
+  {
+    "Calisan_ID": 223,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 72
+  },
+  {
+    "Calisan_ID": 223,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 90
+  },
+  {
+    "Calisan_ID": 224,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 79
+  },
+  {
+    "Calisan_ID": 224,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 95
+  },
+  {
+    "Calisan_ID": 225,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 83
+  },
+  {
+    "Calisan_ID": 226,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 96
+  },
+  {
+    "Calisan_ID": 227,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 82
+  },
+  {
+    "Calisan_ID": 227,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 95
+  },
+  {
+    "Calisan_ID": 228,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 100
+  },
+  {
+    "Calisan_ID": 228,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 90
+  },
+  {
+    "Calisan_ID": 228,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 70
+  },
+  {
+    "Calisan_ID": 229,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 71
+  },
+  {
+    "Calisan_ID": 230,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 97
+  },
+  {
+    "Calisan_ID": 231,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 80
+  },
+  {
+    "Calisan_ID": 231,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 90
+  },
+  {
+    "Calisan_ID": 232,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 81
+  },
+  {
+    "Calisan_ID": 232,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 88
+  },
+  {
+    "Calisan_ID": 233,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 93
+  },
+  {
+    "Calisan_ID": 233,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 89
+  },
+  {
+    "Calisan_ID": 234,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 97
+  },
+  {
+    "Calisan_ID": 235,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 96
+  },
+  {
+    "Calisan_ID": 235,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 72
+  },
+  {
+    "Calisan_ID": 235,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 94
+  },
+  {
+    "Calisan_ID": 236,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 75
+  },
+  {
+    "Calisan_ID": 237,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 97
+  },
+  {
+    "Calisan_ID": 237,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 73
+  },
+  {
+    "Calisan_ID": 237,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 86
+  },
+  {
+    "Calisan_ID": 238,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 77
+  },
+  {
+    "Calisan_ID": 238,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 89
+  },
+  {
+    "Calisan_ID": 238,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 88
+  },
+  {
+    "Calisan_ID": 239,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 96
+  },
+  {
+    "Calisan_ID": 239,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 78
+  },
+  {
+    "Calisan_ID": 239,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 77
+  },
+  {
+    "Calisan_ID": 240,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 89
+  },
+  {
+    "Calisan_ID": 241,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 89
+  },
+  {
+    "Calisan_ID": 242,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 89
+  },
+  {
+    "Calisan_ID": 242,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 91
+  },
+  {
+    "Calisan_ID": 243,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 94
+  },
+  {
+    "Calisan_ID": 244,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 70
+  },
+  {
+    "Calisan_ID": 244,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 98
+  },
+  {
+    "Calisan_ID": 244,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 89
+  },
+  {
+    "Calisan_ID": 245,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 73
+  },
+  {
+    "Calisan_ID": 246,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 73
+  },
+  {
+    "Calisan_ID": 246,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 82
+  },
+  {
+    "Calisan_ID": 246,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 90
+  },
+  {
+    "Calisan_ID": 247,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 85
+  },
+  {
+    "Calisan_ID": 247,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 89
+  },
+  {
+    "Calisan_ID": 247,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 87
+  },
+  {
+    "Calisan_ID": 248,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 94
+  },
+  {
+    "Calisan_ID": 248,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 86
+  },
+  {
+    "Calisan_ID": 249,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 74
+  },
+  {
+    "Calisan_ID": 250,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 95
+  },
+  {
+    "Calisan_ID": 250,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 74
+  },
+  {
+    "Calisan_ID": 250,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 92
+  },
+  {
+    "Calisan_ID": 251,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 75
+  },
+  {
+    "Calisan_ID": 251,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 85
+  },
+  {
+    "Calisan_ID": 251,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 87
+  },
+  {
+    "Calisan_ID": 252,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 79
+  },
+  {
+    "Calisan_ID": 252,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 100
+  },
+  {
+    "Calisan_ID": 252,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 98
+  },
+  {
+    "Calisan_ID": 253,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 90
+  },
+  {
+    "Calisan_ID": 254,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 74
+  },
+  {
+    "Calisan_ID": 255,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 100
+  },
+  {
+    "Calisan_ID": 256,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 70
+  },
+  {
+    "Calisan_ID": 256,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 72
+  },
+  {
+    "Calisan_ID": 256,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 97
+  },
+  {
+    "Calisan_ID": 257,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 77
+  },
+  {
+    "Calisan_ID": 257,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 89
+  },
+  {
+    "Calisan_ID": 257,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 78
+  },
+  {
+    "Calisan_ID": 258,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 81
+  },
+  {
+    "Calisan_ID": 259,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 88
+  },
+  {
+    "Calisan_ID": 259,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 74
+  },
+  {
+    "Calisan_ID": 260,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 98
+  },
+  {
+    "Calisan_ID": 260,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 88
+  },
+  {
+    "Calisan_ID": 260,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 82
+  },
+  {
+    "Calisan_ID": 261,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 79
+  },
+  {
+    "Calisan_ID": 261,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 78
+  },
+  {
+    "Calisan_ID": 261,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 77
+  },
+  {
+    "Calisan_ID": 262,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 77
+  },
+  {
+    "Calisan_ID": 262,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 99
+  },
+  {
+    "Calisan_ID": 263,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 92
+  },
+  {
+    "Calisan_ID": 263,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 85
+  },
+  {
+    "Calisan_ID": 263,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 83
+  },
+  {
+    "Calisan_ID": 264,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 90
+  },
+  {
+    "Calisan_ID": 264,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 96
+  },
+  {
+    "Calisan_ID": 264,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 73
+  },
+  {
+    "Calisan_ID": 265,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 84
+  },
+  {
+    "Calisan_ID": 265,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 74
+  },
+  {
+    "Calisan_ID": 265,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 87
+  },
+  {
+    "Calisan_ID": 266,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 95
+  },
+  {
+    "Calisan_ID": 266,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 99
+  },
+  {
+    "Calisan_ID": 266,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 71
+  },
+  {
+    "Calisan_ID": 267,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 89
+  },
+  {
+    "Calisan_ID": 267,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 94
+  },
+  {
+    "Calisan_ID": 267,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 79
+  },
+  {
+    "Calisan_ID": 268,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 99
+  },
+  {
+    "Calisan_ID": 269,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 96
+  },
+  {
+    "Calisan_ID": 269,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 92
+  },
+  {
+    "Calisan_ID": 269,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 91
+  },
+  {
+    "Calisan_ID": 270,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 83
+  },
+  {
+    "Calisan_ID": 270,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 86
+  },
+  {
+    "Calisan_ID": 271,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 80
+  },
+  {
+    "Calisan_ID": 271,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 100
+  },
+  {
+    "Calisan_ID": 272,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 94
+  },
+  {
+    "Calisan_ID": 272,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 78
+  },
+  {
+    "Calisan_ID": 273,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 84
+  },
+  {
+    "Calisan_ID": 274,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 84
+  },
+  {
+    "Calisan_ID": 274,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 74
+  },
+  {
+    "Calisan_ID": 275,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 100
+  },
+  {
+    "Calisan_ID": 275,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 86
+  },
+  {
+    "Calisan_ID": 275,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 100
+  },
+  {
+    "Calisan_ID": 276,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 77
+  },
+  {
+    "Calisan_ID": 276,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 86
+  },
+  {
+    "Calisan_ID": 277,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 70
+  },
+  {
+    "Calisan_ID": 277,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 77
+  },
+  {
+    "Calisan_ID": 277,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 81
+  },
+  {
+    "Calisan_ID": 278,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 70
+  },
+  {
+    "Calisan_ID": 279,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 76
+  },
+  {
+    "Calisan_ID": 279,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 80
+  },
+  {
+    "Calisan_ID": 280,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 89
+  },
+  {
+    "Calisan_ID": 280,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 78
+  },
+  {
+    "Calisan_ID": 281,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 74
+  },
+  {
+    "Calisan_ID": 281,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 100
+  },
+  {
+    "Calisan_ID": 281,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 73
+  },
+  {
+    "Calisan_ID": 282,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 100
+  },
+  {
+    "Calisan_ID": 282,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 94
+  },
+  {
+    "Calisan_ID": 283,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 77
+  },
+  {
+    "Calisan_ID": 283,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 99
+  },
+  {
+    "Calisan_ID": 283,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 100
+  },
+  {
+    "Calisan_ID": 284,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 85
+  },
+  {
+    "Calisan_ID": 284,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 71
+  },
+  {
+    "Calisan_ID": 285,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 71
+  },
+  {
+    "Calisan_ID": 285,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 100
+  },
+  {
+    "Calisan_ID": 286,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 70
+  },
+  {
+    "Calisan_ID": 286,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 87
+  },
+  {
+    "Calisan_ID": 287,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 70
+  },
+  {
+    "Calisan_ID": 287,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 97
+  },
+  {
+    "Calisan_ID": 287,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 72
+  },
+  {
+    "Calisan_ID": 288,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 76
+  },
+  {
+    "Calisan_ID": 288,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 72
+  },
+  {
+    "Calisan_ID": 289,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 77
+  },
+  {
+    "Calisan_ID": 289,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 93
+  },
+  {
+    "Calisan_ID": 289,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 80
+  },
+  {
+    "Calisan_ID": 290,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 88
+  },
+  {
+    "Calisan_ID": 290,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 98
+  },
+  {
+    "Calisan_ID": 290,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 88
+  },
+  {
+    "Calisan_ID": 291,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 81
+  },
+  {
+    "Calisan_ID": 291,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 75
+  },
+  {
+    "Calisan_ID": 291,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 76
+  },
+  {
+    "Calisan_ID": 292,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 92
+  },
+  {
+    "Calisan_ID": 293,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 92
+  },
+  {
+    "Calisan_ID": 293,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 71
+  },
+  {
+    "Calisan_ID": 294,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 97
+  },
+  {
+    "Calisan_ID": 294,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 90
+  },
+  {
+    "Calisan_ID": 294,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 100
+  },
+  {
+    "Calisan_ID": 295,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 79
+  },
+  {
+    "Calisan_ID": 296,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 84
+  },
+  {
+    "Calisan_ID": 296,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 71
+  },
+  {
+    "Calisan_ID": 297,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 85
+  },
+  {
+    "Calisan_ID": 298,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 80
+  },
+  {
+    "Calisan_ID": 299,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 87
+  },
+  {
+    "Calisan_ID": 299,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 85
+  },
+  {
+    "Calisan_ID": 300,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 73
+  },
+  {
+    "Calisan_ID": 300,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "5 saat",
+    "Skor": 88
+  },
+  {
+    "Calisan_ID": 300,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 83
+  },
+  {
+    "Calisan_ID": 301,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 100
+  },
+  {
+    "Calisan_ID": 301,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "4 saat",
+    "Skor": 89
+  },
+  {
+    "Calisan_ID": 301,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 79
+  },
+  {
+    "Calisan_ID": 302,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 82
+  },
+  {
+    "Calisan_ID": 302,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 85
+  },
+  {
+    "Calisan_ID": 302,
+    "Kurs_Adi": "SQL ve Veri Analizi Temelleri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 86
+  },
+  {
+    "Calisan_ID": 303,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 95
+  },
+  {
+    "Calisan_ID": 303,
+    "Kurs_Adi": "React ve Modern Web Geliştirme",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 78
+  },
+  {
+    "Calisan_ID": 303,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "3 saat",
+    "Skor": 71
+  },
+  {
+    "Calisan_ID": 304,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "2 saat",
+    "Skor": 85
+  },
+  {
+    "Calisan_ID": 304,
+    "Kurs_Adi": "Python ile Programlamaya Giriş",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 94
+  },
+  {
+    "Calisan_ID": 305,
+    "Kurs_Adi": "Etkili Liderlik Becerileri",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "1 saat",
+    "Skor": 89
+  },
+  {
+    "Calisan_ID": 305,
+    "Kurs_Adi": "Zaman Yönetimi",
+    "Tamamlanan": "Tamamlandı",
+    "Harcanan_Sure": "6 saat",
+    "Skor": 92
+  }
+]

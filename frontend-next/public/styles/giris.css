@@ -1,0 +1,139 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(180deg, #e0f7fa 0%, #80deea 100%);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.toggle-container {
+    background-color: #b3e5fc;
+    /* Light blue styling for background of toggle */
+    border-radius: 20px;
+    padding: 5px;
+    display: flex;
+    width: 300px;
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.toggle-btn {
+    flex: 1;
+    padding: 12px;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 500;
+    z-index: 2;
+    transition: color 0.3s;
+    text-align: center;
+}
+
+.toggle-btn.active {
+    color: #000;
+    font-weight: 700;
+}
+
+/* Sliding background for toggle */
+.slider {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: calc(50% - 5px);
+    height: calc(100% - 10px);
+    background-color: #81d4fa;
+    /* Slightly darker selected state */
+    border-radius: 15px;
+    transition: transform 0.3s ease;
+    z-index: 1;
+}
+
+/* If the second button is active (Yönetici), move the slider */
+.toggle-container.yonetici-mode .slider {
+    transform: translateX(100%);
+}
+
+.logo-section {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.logo-img {
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+.brand-name {
+    color: #1a4fba;
+    font-weight: 700;
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+}
+
+.login-form {
+    width: 100%;
+    max-width: 320px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 1.1rem;
+    color: #000;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    font-size: 1rem;
+    background-color: #fff;
+    color: #000;
+    outline: none;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+.forgot-password {
+    text-align: right;
+    color: #fff;
+    text-decoration: none;
+    font-size: 0.9rem;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.btn-submit {
+    background-color: #fff;
+    color: #1a4fba;
+    /* Blue text */
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    font-weight: 700;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+}
+
+.btn-submit:hover {
+    transform: translateY(-2px);
+}
+
+.signup-text {
+    margin-top: 30px;
+    color: #fff;
+    font-size: 1rem;
+    text-align: center;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,641 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+:root {
+    --bg-color: #f8f9fa;
+    --text-color: #333;
+    --sidebar-bg: #e0e0e0;
+    --card-bg: #fff;
+}
+
+body.dark-mode {
+    --bg-color: #0d1b3e;
+    --text-color: #f0f2f5;
+    --sidebar-bg: #0a1628;
+    --card-bg: #162447;
+}
+
+/* Menu Toggle Button */
+.menu-toggle {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    width: 45px;
+    height: 45px;
+    background: linear-gradient(135deg, #e8e8e8, #d0d0d0);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    z-index: 1100;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    padding: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+    transition: all 0.3s ease;
+}
+
+.menu-toggle:hover {
+    transform: scale(1.05);
+}
+
+.menu-toggle span {
+    display: block;
+    width: 22px;
+    height: 3px;
+    background-color: #333;
+    border-radius: 2px;
+    transition: all 0.3s ease;
+}
+
+.menu-toggle.active span:nth-child(1) {
+    transform: rotate(45deg) translate(6px, 6px);
+}
+
+.menu-toggle.active span:nth-child(2) {
+    opacity: 0;
+}
+
+.menu-toggle.active span:nth-child(3) {
+    transform: rotate(-45deg) translate(6px, -6px);
+}
+
+body.dark-mode .menu-toggle {
+    background: linear-gradient(135deg, #1a264a, #0d1b3e);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+body.dark-mode .menu-toggle span {
+    background-color: #fff;
+}
+
+/* Sidebar Overlay */
+.sidebar-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 999;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+}
+
+.sidebar-overlay.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    display: flex;
+    min-height: 100vh;
+    transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+/* Sidebar */
+.sidebar {
+    width: 250px;
+    background: linear-gradient(180deg, #e8e8e8 0%, #d0d0d0 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 80px;
+    position: fixed;
+    height: 100%;
+    left: -260px;
+    top: 0;
+    transition: all 0.3s ease;
+    box-shadow: 4px 0 20px rgba(0, 0, 0, 0.15);
+    z-index: 1000;
+}
+
+.sidebar.open {
+    left: 0;
+}
+
+/* Dark mode sidebar */
+body.dark-mode .sidebar {
+    background-color: var(--sidebar-bg);
+    box-shadow: 4px 0 20px rgba(0, 0, 0, 0.3);
+}
+
+.sidebar-logo {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.sidebar-logo img {
+    width: 120px;
+}
+
+body.dark-mode .sidebar-logo img {
+    filter: brightness(0) invert(1);
+}
+
+.sidebar-logo div {
+    color: #1a4fba;
+    font-weight: 800;
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+    margin-top: 5px;
+}
+
+body.dark-mode .sidebar-logo div {
+    color: #4fc3f7;
+}
+
+.nav-links {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.nav-item {
+    display: flex;
+    align-items: center;
+    padding: 15px 25px;
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+    font-size: 0.9rem;
+    transition: all 0.3s ease;
+    gap: 12px;
+    border-left: 4px solid transparent;
+}
+
+body.dark-mode .nav-item {
+    color: #f0f2f5;
+}
+
+.nav-item i {
+    font-size: 1.1rem;
+    width: 22px;
+    text-align: center;
+}
+
+.nav-item:hover {
+    background-color: rgba(79, 195, 247, 0.1);
+    border-left-color: #4fc3f7;
+}
+
+.nav-item.active {
+    background-color: rgba(79, 195, 247, 0.2);
+    border-left-color: #4fc3f7;
+    color: #4fc3f7;
+}
+
+.logout-btn {
+    margin-top: auto;
+}
+
+.logout-btn:hover {
+    background-color: rgba(255, 99, 71, 0.2);
+    border-left-color: #ff6347;
+}
+
+.logout-btn i {
+    color: #333;
+}
+
+body.dark-mode .logout-btn i {
+    color: #f0f2f5;
+}
+
+/* Main Content */
+.main-content {
+    margin-left: 0;
+    padding: 40px 60px;
+    padding-top: 80px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.header-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 50px;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.welcome-text {
+    flex: 1;
+    min-width: 300px;
+}
+
+.welcome-text h1 {
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.welcome-text h2 {
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-bottom: 10px;
+    color: #000;
+}
+
+body.dark-mode .welcome-text h2 {
+    color: #f0f2f5;
+}
+
+.welcome-text p {
+    font-size: 0.95rem;
+    color: #666;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+
+body.dark-mode .welcome-text p {
+    color: #a0c4e8;
+}
+
+/* Progress Circle */
+.progress-container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.progress-circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: conic-gradient(#1a4fba 0%, #e0e0e0 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-bottom: 10px;
+    transition: background 0.5s ease;
+}
+
+.progress-circle #progress-percent {
+    width: 80px;
+    height: 80px;
+    background-color: #f8f9fa;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    font-size: 1.2rem;
+    color: #333;
+}
+
+body.dark-mode .progress-circle #progress-percent {
+    background-color: #162447;
+    color: #f0f2f5;
+}
+
+.progress-label {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #333;
+}
+
+body.dark-mode .progress-label {
+    color: #f0f2f5;
+}
+
+/* Filter Tags */
+.filter-section {
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.filter-title {
+    font-weight: 700;
+    margin-bottom: 10px;
+    font-size: 1rem;
+}
+
+body.dark-mode .filter-title {
+    color: #f0f2f5;
+}
+
+.tags {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    width: 100%;
+    max-width: 100%;
+}
+
+.tag {
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    background-color: #b0b0b0;
+    color: #333;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    white-space: nowrap;
+}
+
+body.dark-mode .tag {
+    background-color: #2a3b6e;
+    color: #fff;
+}
+
+.tag:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.tag-progress {
+    background: rgba(255, 255, 255, 0.3);
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-size: 0.75rem;
+    font-weight: 700;
+}
+
+.tag.active {
+    background-color: #4fc3f7;
+    /* Cyan blue for active tag */
+    color: #fff;
+}
+
+.search-bar {
+    margin-bottom: 40px;
+    position: relative;
+    max-width: 400px;
+}
+
+.search-bar input {
+    width: 100%;
+    padding: 12px 20px;
+    padding-right: 40px;
+    border: 1px solid #ddd;
+    border-radius: 25px;
+    outline: none;
+    font-size: 0.95rem;
+    color: #666;
+    background-color: #fff;
+    transition: all 0.3s ease;
+}
+
+body.dark-mode .search-bar input {
+    background-color: #1a3a5c;
+    border-color: #2a4a6c;
+    color: #f0f2f5;
+}
+
+body.dark-mode .search-bar input::placeholder {
+    color: #a0c4e8;
+}
+
+.search-bar i {
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #666;
+}
+
+body.dark-mode .search-bar i {
+    color: #a0c4e8;
+}
+
+/* Cards Grid */
+.cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+    padding: 15px;
+    overflow: visible;
+}
+
+.course-card {
+    background-color: #fff;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+    transition: all 0.3s ease;
+}
+
+body.dark-mode .course-card {
+    background-color: #162447;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.card-header {
+    background-color: #81d4fa;
+    /* Light blue header */
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+/* Curve at bottom of header - simulated with border-radius or SVG, keeping it simpler with CSS */
+.card-header {
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin: 0 10px 10px 10px;
+    /* Slight margin inside */
+    margin-top: 10px;
+}
+
+.card-icon {
+    font-size: 3rem;
+    color: #333;
+}
+
+body.dark-mode .card-icon {
+    color: #1a264a;
+}
+
+.card-body {
+    padding: 0 20px;
+    flex-grow: 1;
+    text-align: center;
+}
+
+.course-title {
+    font-weight: 700;
+    font-size: 1.1rem;
+    margin-bottom: 15px;
+}
+
+body.dark-mode .course-title {
+    color: #f0f2f5;
+}
+
+.course-details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    font-size: 0.8rem;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+body.dark-mode .course-details {
+    color: #a0c4e8;
+}
+
+.detail-item {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.course-desc {
+    font-size: 0.9rem;
+    color: #777;
+    margin-bottom: 20px;
+    line-height: 1.4;
+}
+
+body.dark-mode .course-desc {
+    color: #8899aa;
+}
+
+.btn-start {
+    background-color: #2c72a8;
+    color: #fff;
+    border: none;
+    padding: 12px 30px;
+    border-radius: 8px;
+    font-weight: 700;
+    cursor: pointer;
+    font-size: 0.9rem;
+    margin: 0 auto;
+    display: block;
+    width: 80%;
+    transition: background-color 0.3s;
+}
+
+.btn-start:hover {
+    background-color: #1a4fba;
+}
+
+/* Tamamlanmış eğitim stilleri */
+.btn-start.completed,
+.btn-start.completed:disabled,
+.btn-start[disabled] {
+    background-color: #4CAF50 !important;
+    cursor: default !important;
+    pointer-events: none !important;
+    color: white !important;
+}
+
+.btn-start.completed:hover,
+.btn-start[disabled]:hover {
+    background-color: #4CAF50 !important;
+}
+
+.course-card.course-completed {
+    border: 3px solid #4CAF50 !important;
+    position: relative;
+    box-shadow: 0 0 15px rgba(76, 175, 80, 0.3);
+    overflow: visible !important;
+}
+
+.course-card.course-completed .card-header::before {
+    content: '✓ TAMAMLANDI';
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: #4CAF50;
+    color: white;
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    z-index: 10;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+.course-card.course-completed .card-header {
+    position: relative;
+}
+
+.course-card.course-completed::after {
+    content: '✓';
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    width: 35px;
+    height: 35px;
+    background: #4CAF50;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 1.2rem;
+    z-index: 20;
+    box-shadow: 0 3px 10px rgba(76, 175, 80, 0.5);
+    border: 3px solid white;
+}
+
+/* Başarı Toast Mesajı */
+.success-toast {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background: linear-gradient(135deg, #4CAF50, #45a049);
+    color: white;
+    padding: 20px 30px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    box-shadow: 0 8px 25px rgba(76, 175, 80, 0.4);
+    z-index: 9999;
+    animation: slideIn 0.5s ease;
+}
+
+.success-toast i {
+    font-size: 1.5rem;
+}
+
+.success-toast span {
+    font-weight: 600;
+}
+
+@keyframes slideIn {
+    from {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+.success-toast.fade-out {
+    animation: fadeOut 0.5s ease forwards;
+}
+
+@keyframes fadeOut {
+    to {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+}

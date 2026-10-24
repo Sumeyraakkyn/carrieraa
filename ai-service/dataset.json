@@ -1,0 +1,1201 @@
+[
+  {
+    "userId": 206,
+    "department": "Veri Analizi",
+    "skills": [
+      "Makine Öğrenmesi",
+      "Veri Analizi",
+      "SQL"
+    ],
+    "careerGoal": "CTO",
+    "performanceScore": 3.7250000000000005
+  },
+  {
+    "userId": 207,
+    "department": "Satış & Pazarlama",
+    "skills": [
+      "JavaScript",
+      "Python",
+      "Veri Analizi",
+      "Liderlik"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 3.5
+  },
+  {
+    "userId": 208,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Python"
+    ],
+    "careerGoal": "Takım Lideri",
+    "performanceScore": 3.675
+  },
+  {
+    "userId": 209,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "React",
+      "SQL",
+      "İletişim",
+      "Makine Öğrenmesi"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 3.275
+  },
+  {
+    "userId": 210,
+    "department": "Satış & Pazarlama",
+    "skills": [
+      "Proje Yönetimi",
+      "İletişim",
+      "Makine Öğrenmesi"
+    ],
+    "careerGoal": "Kıdemli Geliştirici",
+    "performanceScore": 3.3
+  },
+  {
+    "userId": 211,
+    "department": "Satış & Pazarlama",
+    "skills": [
+      "React",
+      "Python",
+      "Liderlik",
+      "Yapay Zeka"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 3.45
+  },
+  {
+    "userId": 212,
+    "department": "İnsan Kaynakları",
+    "skills": [
+      "Yapay Zeka",
+      "Veri Analizi",
+      "SQL",
+      "Makine Öğrenmesi",
+      "Node.js"
+    ],
+    "careerGoal": "Ürün Yöneticisi",
+    "performanceScore": 3.35
+  },
+  {
+    "userId": 213,
+    "department": "Veri Analizi",
+    "skills": [
+      "Yapay Zeka",
+      "JavaScript",
+      "SQL",
+      "React",
+      "Python",
+      "İletişim"
+    ],
+    "careerGoal": "Takım Lideri",
+    "performanceScore": 3.3
+  },
+  {
+    "userId": 214,
+    "department": "Satış & Pazarlama",
+    "skills": [
+      "Makine Öğrenmesi",
+      "Liderlik"
+    ],
+    "careerGoal": "Kıdemli Geliştirici",
+    "performanceScore": 3.8000000000000003
+  },
+  {
+    "userId": 215,
+    "department": "Veri Analizi",
+    "skills": [
+      "Liderlik",
+      "JavaScript",
+      "Proje Yönetimi",
+      "Veri Analizi"
+    ],
+    "careerGoal": "CTO",
+    "performanceScore": 3.275
+  },
+  {
+    "userId": 216,
+    "department": "Satış & Pazarlama",
+    "skills": [
+      "React",
+      "Proje Yönetimi",
+      "Veri Analizi",
+      "SQL",
+      "Yapay Zeka"
+    ],
+    "careerGoal": "Ürün Yöneticisi",
+    "performanceScore": 3.1
+  },
+  {
+    "userId": 217,
+    "department": "Veri Analizi",
+    "skills": [
+      "React",
+      "Makine Öğrenmesi",
+      "Python",
+      "Proje Yönetimi",
+      "Veri Analizi"
+    ],
+    "careerGoal": "Kıdemli Geliştirici",
+    "performanceScore": 3.45
+  },
+  {
+    "userId": 218,
+    "department": "Ürün Yönetimi",
+    "skills": [
+      "Proje Yönetimi",
+      "React",
+      "SQL"
+    ],
+    "careerGoal": "Takım Lideri",
+    "performanceScore": 3.325
+  },
+  {
+    "userId": 219,
+    "department": "Satış & Pazarlama",
+    "skills": [
+      "Makine Öğrenmesi",
+      "Proje Yönetimi",
+      "İletişim",
+      "Node.js",
+      "JavaScript",
+      "Python"
+    ],
+    "careerGoal": "CTO",
+    "performanceScore": 4.025
+  },
+  {
+    "userId": 220,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "React",
+      "Node.js",
+      "Yapay Zeka",
+      "Makine Öğrenmesi",
+      "Proje Yönetimi"
+    ],
+    "careerGoal": "Takım Lideri",
+    "performanceScore": 3.525
+  },
+  {
+    "userId": 221,
+    "department": "Satış & Pazarlama",
+    "skills": [
+      "React",
+      "Node.js",
+      "SQL",
+      "Python",
+      "Liderlik"
+    ],
+    "careerGoal": "Kıdemli Geliştirici",
+    "performanceScore": 3.65
+  },
+  {
+    "userId": 222,
+    "department": "Veri Analizi",
+    "skills": [
+      "JavaScript",
+      "Python"
+    ],
+    "careerGoal": "CTO",
+    "performanceScore": 3.475
+  },
+  {
+    "userId": 223,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "Proje Yönetimi",
+      "İletişim",
+      "Node.js",
+      "Python",
+      "Veri Analizi"
+    ],
+    "careerGoal": "Takım Lideri",
+    "performanceScore": 3.2
+  },
+  {
+    "userId": 224,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "Proje Yönetimi",
+      "React"
+    ],
+    "careerGoal": "Ürün Yöneticisi",
+    "performanceScore": 4.025
+  },
+  {
+    "userId": 225,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "Node.js",
+      "Proje Yönetimi",
+      "React",
+      "Liderlik",
+      "SQL"
+    ],
+    "careerGoal": "Ürün Yöneticisi",
+    "performanceScore": 3.3249999999999997
+  },
+  {
+    "userId": 226,
+    "department": "Ürün Yönetimi",
+    "skills": [
+      "Node.js",
+      "Proje Yönetimi",
+      "React",
+      "İletişim",
+      "Yapay Zeka"
+    ],
+    "careerGoal": "Kıdemli Geliştirici",
+    "performanceScore": 3.65
+  },
+  {
+    "userId": 227,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "Proje Yönetimi",
+      "İletişim",
+      "Makine Öğrenmesi",
+      "Veri Analizi",
+      "Python"
+    ],
+    "careerGoal": "Kıdemli Geliştirici",
+    "performanceScore": 3.275
+  },
+  {
+    "userId": 228,
+    "department": "Satış & Pazarlama",
+    "skills": [
+      "Proje Yönetimi",
+      "İletişim",
+      "Makine Öğrenmesi",
+      "React"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 3.325
+  },
+  {
+    "userId": 229,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "Yapay Zeka",
+      "Liderlik",
+      "Proje Yönetimi",
+      "Veri Analizi",
+      "İletişim"
+    ],
+    "careerGoal": "Takım Lideri",
+    "performanceScore": 4
+  },
+  {
+    "userId": 230,
+    "department": "Veri Analizi",
+    "skills": [
+      "Veri Analizi",
+      "İletişim"
+    ],
+    "careerGoal": "Takım Lideri",
+    "performanceScore": 4.25
+  },
+  {
+    "userId": 231,
+    "department": "İnsan Kaynakları",
+    "skills": [
+      "İletişim",
+      "Veri Analizi",
+      "JavaScript",
+      "Liderlik",
+      "Proje Yönetimi",
+      "SQL"
+    ],
+    "careerGoal": "Takım Lideri",
+    "performanceScore": 3.75
+  },
+  {
+    "userId": 232,
+    "department": "Veri Analizi",
+    "skills": [
+      "JavaScript",
+      "Veri Analizi"
+    ],
+    "careerGoal": "Takım Lideri",
+    "performanceScore": 2.625
+  },
+  {
+    "userId": 233,
+    "department": "Ürün Yönetimi",
+    "skills": [
+      "React",
+      "SQL",
+      "Node.js",
+      "Yapay Zeka"
+    ],
+    "careerGoal": "Ürün Yöneticisi",
+    "performanceScore": 3.525
+  },
+  {
+    "userId": 234,
+    "department": "Ürün Yönetimi",
+    "skills": [
+      "React",
+      "Proje Yönetimi",
+      "SQL",
+      "JavaScript"
+    ],
+    "careerGoal": "CTO",
+    "performanceScore": 3.75
+  },
+  {
+    "userId": 235,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "Veri Analizi",
+      "Liderlik",
+      "Yapay Zeka"
+    ],
+    "careerGoal": "Ürün Yöneticisi",
+    "performanceScore": 2.75
+  },
+  {
+    "userId": 236,
+    "department": "İnsan Kaynakları",
+    "skills": [
+      "Node.js",
+      "Makine Öğrenmesi",
+      "İletişim",
+      "React",
+      "JavaScript"
+    ],
+    "careerGoal": "Kıdemli Geliştirici",
+    "performanceScore": 3
+  },
+  {
+    "userId": 237,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "Node.js",
+      "Makine Öğrenmesi",
+      "SQL",
+      "Veri Analizi",
+      "React"
+    ],
+    "careerGoal": "Kıdemli Geliştirici",
+    "performanceScore": 4.4
+  },
+  {
+    "userId": 238,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "Veri Analizi",
+      "Yapay Zeka",
+      "React",
+      "SQL"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 3.175
+  },
+  {
+    "userId": 239,
+    "department": "Satış & Pazarlama",
+    "skills": [
+      "Liderlik",
+      "Proje Yönetimi"
+    ],
+    "careerGoal": "Ürün Yöneticisi",
+    "performanceScore": 2.875
+  },
+  {
+    "userId": 240,
+    "department": "Ürün Yönetimi",
+    "skills": [
+      "Makine Öğrenmesi",
+      "React",
+      "Python",
+      "Veri Analizi",
+      "Liderlik"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 2.8
+  },
+  {
+    "userId": 241,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "Liderlik",
+      "Node.js",
+      "SQL",
+      "Veri Analizi"
+    ],
+    "careerGoal": "Takım Lideri",
+    "performanceScore": 3.125
+  },
+  {
+    "userId": 242,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "Liderlik",
+      "İletişim"
+    ],
+    "careerGoal": "Takım Lideri",
+    "performanceScore": 3.45
+  },
+  {
+    "userId": 243,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "İletişim",
+      "SQL"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 2.7
+  },
+  {
+    "userId": 244,
+    "department": "Ürün Yönetimi",
+    "skills": [
+      "Makine Öğrenmesi",
+      "Veri Analizi",
+      "Node.js",
+      "Yapay Zeka"
+    ],
+    "careerGoal": "Takım Lideri",
+    "performanceScore": 3.675
+  },
+  {
+    "userId": 245,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "Yapay Zeka",
+      "JavaScript",
+      "Veri Analizi",
+      "Makine Öğrenmesi"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 3.5499999999999994
+  },
+  {
+    "userId": 246,
+    "department": "Satış & Pazarlama",
+    "skills": [
+      "Python",
+      "Node.js",
+      "Makine Öğrenmesi",
+      "Proje Yönetimi"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 3.775
+  },
+  {
+    "userId": 247,
+    "department": "İnsan Kaynakları",
+    "skills": [
+      "Proje Yönetimi",
+      "Makine Öğrenmesi"
+    ],
+    "careerGoal": "Kıdemli Geliştirici",
+    "performanceScore": 4.175000000000001
+  },
+  {
+    "userId": 248,
+    "department": "Ürün Yönetimi",
+    "skills": [
+      "Proje Yönetimi",
+      "JavaScript",
+      "SQL"
+    ],
+    "careerGoal": "Takım Lideri",
+    "performanceScore": 3.5749999999999997
+  },
+  {
+    "userId": 249,
+    "department": "Satış & Pazarlama",
+    "skills": [
+      "Liderlik",
+      "SQL"
+    ],
+    "careerGoal": "Ürün Yöneticisi",
+    "performanceScore": 4.475
+  },
+  {
+    "userId": 250,
+    "department": "Ürün Yönetimi",
+    "skills": [
+      "Proje Yönetimi",
+      "Makine Öğrenmesi"
+    ],
+    "careerGoal": "CTO",
+    "performanceScore": 3.175
+  },
+  {
+    "userId": 251,
+    "department": "Ürün Yönetimi",
+    "skills": [
+      "Liderlik",
+      "Proje Yönetimi",
+      "Makine Öğrenmesi",
+      "JavaScript",
+      "Yapay Zeka",
+      "Python"
+    ],
+    "careerGoal": "Kıdemli Geliştirici",
+    "performanceScore": 3.425
+  },
+  {
+    "userId": 252,
+    "department": "Veri Analizi",
+    "skills": [
+      "Node.js",
+      "JavaScript"
+    ],
+    "careerGoal": "Ürün Yöneticisi",
+    "performanceScore": 4.4
+  },
+  {
+    "userId": 253,
+    "department": "Satış & Pazarlama",
+    "skills": [
+      "Node.js",
+      "JavaScript",
+      "Python",
+      "React"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 3.825
+  },
+  {
+    "userId": 254,
+    "department": "İnsan Kaynakları",
+    "skills": [
+      "İletişim",
+      "Makine Öğrenmesi",
+      "Python",
+      "Veri Analizi",
+      "Liderlik"
+    ],
+    "careerGoal": "CTO",
+    "performanceScore": 2.675
+  },
+  {
+    "userId": 255,
+    "department": "Veri Analizi",
+    "skills": [
+      "Proje Yönetimi",
+      "Yapay Zeka",
+      "Node.js",
+      "Python",
+      "Veri Analizi"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 2.525
+  },
+  {
+    "userId": 256,
+    "department": "Veri Analizi",
+    "skills": [
+      "Python",
+      "Proje Yönetimi",
+      "JavaScript",
+      "Liderlik"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 3.25
+  },
+  {
+    "userId": 257,
+    "department": "Ürün Yönetimi",
+    "skills": [
+      "Makine Öğrenmesi",
+      "Proje Yönetimi"
+    ],
+    "careerGoal": "Takım Lideri",
+    "performanceScore": 3.55
+  },
+  {
+    "userId": 258,
+    "department": "Satış & Pazarlama",
+    "skills": [
+      "Proje Yönetimi",
+      "Makine Öğrenmesi",
+      "Veri Analizi",
+      "React",
+      "İletişim",
+      "SQL"
+    ],
+    "careerGoal": "Ürün Yöneticisi",
+    "performanceScore": 3.875
+  },
+  {
+    "userId": 259,
+    "department": "Veri Analizi",
+    "skills": [
+      "Veri Analizi",
+      "JavaScript",
+      "Proje Yönetimi",
+      "Makine Öğrenmesi",
+      "Yapay Zeka"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 3.35
+  },
+  {
+    "userId": 260,
+    "department": "Ürün Yönetimi",
+    "skills": [
+      "Liderlik",
+      "SQL"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 3.9749999999999996
+  },
+  {
+    "userId": 261,
+    "department": "Ürün Yönetimi",
+    "skills": [
+      "Veri Analizi",
+      "JavaScript",
+      "Python",
+      "Yapay Zeka"
+    ],
+    "careerGoal": "CTO",
+    "performanceScore": 3.8249999999999997
+  },
+  {
+    "userId": 262,
+    "department": "Satış & Pazarlama",
+    "skills": [
+      "Node.js",
+      "SQL"
+    ],
+    "careerGoal": "Takım Lideri",
+    "performanceScore": 3.85
+  },
+  {
+    "userId": 263,
+    "department": "İnsan Kaynakları",
+    "skills": [
+      "İletişim",
+      "Yapay Zeka",
+      "Node.js",
+      "Makine Öğrenmesi",
+      "JavaScript"
+    ],
+    "careerGoal": "Kıdemli Geliştirici",
+    "performanceScore": 3.8
+  },
+  {
+    "userId": 264,
+    "department": "Ürün Yönetimi",
+    "skills": [
+      "React",
+      "Node.js"
+    ],
+    "careerGoal": "Ürün Yöneticisi",
+    "performanceScore": 3.85
+  },
+  {
+    "userId": 265,
+    "department": "Ürün Yönetimi",
+    "skills": [
+      "Makine Öğrenmesi",
+      "Yapay Zeka"
+    ],
+    "careerGoal": "Ürün Yöneticisi",
+    "performanceScore": 3.725
+  },
+  {
+    "userId": 266,
+    "department": "Veri Analizi",
+    "skills": [
+      "SQL",
+      "Python",
+      "Makine Öğrenmesi",
+      "Proje Yönetimi",
+      "Yapay Zeka",
+      "Veri Analizi"
+    ],
+    "careerGoal": "Ürün Yöneticisi",
+    "performanceScore": 3.775
+  },
+  {
+    "userId": 267,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "Python",
+      "SQL",
+      "Proje Yönetimi",
+      "Yapay Zeka"
+    ],
+    "careerGoal": "CTO",
+    "performanceScore": 3.2749999999999995
+  },
+  {
+    "userId": 268,
+    "department": "Ürün Yönetimi",
+    "skills": [
+      "Makine Öğrenmesi",
+      "Veri Analizi",
+      "İletişim",
+      "SQL",
+      "Proje Yönetimi"
+    ],
+    "careerGoal": "Kıdemli Geliştirici",
+    "performanceScore": 3.375
+  },
+  {
+    "userId": 269,
+    "department": "Veri Analizi",
+    "skills": [
+      "SQL",
+      "İletişim",
+      "Python",
+      "Liderlik",
+      "Veri Analizi",
+      "React"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 3.825
+  },
+  {
+    "userId": 270,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "Proje Yönetimi",
+      "Veri Analizi",
+      "Node.js",
+      "SQL",
+      "Liderlik"
+    ],
+    "careerGoal": "CTO",
+    "performanceScore": 3.8499999999999996
+  },
+  {
+    "userId": 271,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "Veri Analizi",
+      "SQL",
+      "Liderlik",
+      "Python"
+    ],
+    "careerGoal": "Kıdemli Geliştirici",
+    "performanceScore": 3.775
+  },
+  {
+    "userId": 272,
+    "department": "Veri Analizi",
+    "skills": [
+      "Veri Analizi",
+      "Python",
+      "Makine Öğrenmesi"
+    ],
+    "careerGoal": "CTO",
+    "performanceScore": 3.05
+  },
+  {
+    "userId": 273,
+    "department": "Satış & Pazarlama",
+    "skills": [
+      "Yapay Zeka",
+      "Proje Yönetimi",
+      "İletişim",
+      "Veri Analizi",
+      "React"
+    ],
+    "careerGoal": "Takım Lideri",
+    "performanceScore": 3.15
+  },
+  {
+    "userId": 274,
+    "department": "Satış & Pazarlama",
+    "skills": [
+      "Veri Analizi",
+      "Python",
+      "İletişim",
+      "Makine Öğrenmesi",
+      "SQL"
+    ],
+    "careerGoal": "Kıdemli Geliştirici",
+    "performanceScore": 3.3
+  },
+  {
+    "userId": 275,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "JavaScript",
+      "Veri Analizi"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 2.575
+  },
+  {
+    "userId": 276,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "Yapay Zeka",
+      "İletişim",
+      "SQL",
+      "React",
+      "Proje Yönetimi",
+      "Veri Analizi"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 3.3
+  },
+  {
+    "userId": 277,
+    "department": "Ürün Yönetimi",
+    "skills": [
+      "Python",
+      "Node.js",
+      "React",
+      "SQL",
+      "İletişim",
+      "Liderlik"
+    ],
+    "careerGoal": "CTO",
+    "performanceScore": 3.9750000000000005
+  },
+  {
+    "userId": 278,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "Liderlik",
+      "Python",
+      "Node.js",
+      "JavaScript"
+    ],
+    "careerGoal": "Takım Lideri",
+    "performanceScore": 3.6500000000000004
+  },
+  {
+    "userId": 279,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "Proje Yönetimi",
+      "Makine Öğrenmesi",
+      "SQL"
+    ],
+    "careerGoal": "Kıdemli Geliştirici",
+    "performanceScore": 3.5249999999999995
+  },
+  {
+    "userId": 280,
+    "department": "Satış & Pazarlama",
+    "skills": [
+      "İletişim",
+      "React",
+      "Proje Yönetimi",
+      "Makine Öğrenmesi"
+    ],
+    "careerGoal": "Ürün Yöneticisi",
+    "performanceScore": 4.125
+  },
+  {
+    "userId": 281,
+    "department": "Satış & Pazarlama",
+    "skills": [
+      "İletişim",
+      "Yapay Zeka"
+    ],
+    "careerGoal": "CTO",
+    "performanceScore": 3.725
+  },
+  {
+    "userId": 282,
+    "department": "Satış & Pazarlama",
+    "skills": [
+      "Proje Yönetimi",
+      "İletişim"
+    ],
+    "careerGoal": "Ürün Yöneticisi",
+    "performanceScore": 3.575
+  },
+  {
+    "userId": 283,
+    "department": "Ürün Yönetimi",
+    "skills": [
+      "Liderlik",
+      "Proje Yönetimi",
+      "Node.js",
+      "Yapay Zeka",
+      "SQL"
+    ],
+    "careerGoal": "Ürün Yöneticisi",
+    "performanceScore": 2.8000000000000003
+  },
+  {
+    "userId": 284,
+    "department": "Veri Analizi",
+    "skills": [
+      "Liderlik",
+      "Proje Yönetimi",
+      "React"
+    ],
+    "careerGoal": "CTO",
+    "performanceScore": 3.2750000000000004
+  },
+  {
+    "userId": 285,
+    "department": "Ürün Yönetimi",
+    "skills": [
+      "Proje Yönetimi",
+      "Liderlik",
+      "React",
+      "SQL",
+      "Node.js"
+    ],
+    "careerGoal": "Kıdemli Geliştirici",
+    "performanceScore": 2.85
+  },
+  {
+    "userId": 286,
+    "department": "Satış & Pazarlama",
+    "skills": [
+      "Python",
+      "Proje Yönetimi",
+      "Liderlik"
+    ],
+    "careerGoal": "Kıdemli Geliştirici",
+    "performanceScore": 2.9000000000000004
+  },
+  {
+    "userId": 287,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "Liderlik",
+      "SQL"
+    ],
+    "careerGoal": "CTO",
+    "performanceScore": 4.1
+  },
+  {
+    "userId": 288,
+    "department": "İnsan Kaynakları",
+    "skills": [
+      "React",
+      "Yapay Zeka",
+      "Proje Yönetimi",
+      "Node.js",
+      "Makine Öğrenmesi"
+    ],
+    "careerGoal": "CTO",
+    "performanceScore": 3.4250000000000003
+  },
+  {
+    "userId": 289,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "SQL",
+      "Veri Analizi",
+      "Yapay Zeka",
+      "JavaScript",
+      "React",
+      "Liderlik"
+    ],
+    "careerGoal": "Takım Lideri",
+    "performanceScore": 3.4499999999999997
+  },
+  {
+    "userId": 290,
+    "department": "Veri Analizi",
+    "skills": [
+      "Liderlik",
+      "JavaScript",
+      "Proje Yönetimi",
+      "Node.js",
+      "Yapay Zeka",
+      "Veri Analizi"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 3.95
+  },
+  {
+    "userId": 291,
+    "department": "Veri Analizi",
+    "skills": [
+      "Node.js",
+      "Liderlik",
+      "İletişim",
+      "React",
+      "Makine Öğrenmesi",
+      "JavaScript"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 3.1
+  },
+  {
+    "userId": 292,
+    "department": "İnsan Kaynakları",
+    "skills": [
+      "Proje Yönetimi",
+      "Yapay Zeka",
+      "Python",
+      "Node.js",
+      "Liderlik",
+      "SQL"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 3.675
+  },
+  {
+    "userId": 293,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "JavaScript",
+      "Liderlik",
+      "Proje Yönetimi",
+      "Makine Öğrenmesi"
+    ],
+    "careerGoal": "Takım Lideri",
+    "performanceScore": 3.6999999999999997
+  },
+  {
+    "userId": 294,
+    "department": "İnsan Kaynakları",
+    "skills": [
+      "JavaScript",
+      "Makine Öğrenmesi",
+      "Python",
+      "React",
+      "Veri Analizi"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 3.325
+  },
+  {
+    "userId": 295,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "React",
+      "Yapay Zeka",
+      "SQL",
+      "Python"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 3.15
+  },
+  {
+    "userId": 296,
+    "department": "İnsan Kaynakları",
+    "skills": [
+      "Node.js",
+      "Python",
+      "İletişim",
+      "SQL",
+      "Makine Öğrenmesi"
+    ],
+    "careerGoal": "Ürün Yöneticisi",
+    "performanceScore": 3.125
+  },
+  {
+    "userId": 297,
+    "department": "İnsan Kaynakları",
+    "skills": [
+      "Makine Öğrenmesi",
+      "React",
+      "Yapay Zeka",
+      "SQL",
+      "İletişim"
+    ],
+    "careerGoal": "Ürün Yöneticisi",
+    "performanceScore": 3.5250000000000004
+  },
+  {
+    "userId": 298,
+    "department": "Yazılım Geliştirme",
+    "skills": [
+      "Makine Öğrenmesi",
+      "SQL",
+      "Veri Analizi",
+      "React",
+      "İletişim"
+    ],
+    "careerGoal": "Kıdemli Geliştirici",
+    "performanceScore": 3.55
+  },
+  {
+    "userId": 299,
+    "department": "İnsan Kaynakları",
+    "skills": [
+      "Makine Öğrenmesi",
+      "Liderlik"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 2.875
+  },
+  {
+    "userId": 300,
+    "department": "İnsan Kaynakları",
+    "skills": [
+      "React",
+      "Makine Öğrenmesi",
+      "Liderlik",
+      "SQL",
+      "Python"
+    ],
+    "careerGoal": "Kıdemli Geliştirici",
+    "performanceScore": 4.475
+  },
+  {
+    "userId": 301,
+    "department": "Veri Analizi",
+    "skills": [
+      "Proje Yönetimi",
+      "SQL",
+      "Node.js"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 3.0999999999999996
+  },
+  {
+    "userId": 302,
+    "department": "Ürün Yönetimi",
+    "skills": [
+      "Node.js",
+      "İletişim",
+      "Makine Öğrenmesi",
+      "Proje Yönetimi"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 2.625
+  },
+  {
+    "userId": 303,
+    "department": "Ürün Yönetimi",
+    "skills": [
+      "SQL",
+      "Makine Öğrenmesi",
+      "Proje Yönetimi",
+      "Python"
+    ],
+    "careerGoal": "Veri Bilimci",
+    "performanceScore": 3.325
+  },
+  {
+    "userId": 304,
+    "department": "Veri Analizi",
+    "skills": [
+      "Yapay Zeka",
+      "Node.js",
+      "SQL",
+      "React"
+    ],
+    "careerGoal": "Takım Lideri",
+    "performanceScore": 2.65
+  },
+  {
+    "userId": 305,
+    "department": "Ürün Yönetimi",
+    "skills": [
+      "İletişim",
+      "Yapay Zeka",
+      "Veri Analizi"
+    ],
+    "careerGoal": "Ürün Yöneticisi",
+    "performanceScore": 4.175
+  }
+]

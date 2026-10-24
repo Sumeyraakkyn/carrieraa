@@ -1,0 +1,1997 @@
+[
+  {
+    "Calisan_ID": 206,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 206,
+    "Beceri": "Veri Analizi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 206,
+    "Beceri": "SQL",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 207,
+    "Beceri": "JavaScript",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 207,
+    "Beceri": "Python",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 207,
+    "Beceri": "Veri Analizi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 207,
+    "Beceri": "Liderlik",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 208,
+    "Beceri": "JavaScript",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 208,
+    "Beceri": "React",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 208,
+    "Beceri": "Python",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 209,
+    "Beceri": "React",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 209,
+    "Beceri": "SQL",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 209,
+    "Beceri": "İletişim",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 209,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 210,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 210,
+    "Beceri": "İletişim",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 210,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 211,
+    "Beceri": "React",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 211,
+    "Beceri": "Python",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 211,
+    "Beceri": "Liderlik",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 211,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 212,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 212,
+    "Beceri": "Veri Analizi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 212,
+    "Beceri": "SQL",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 212,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 212,
+    "Beceri": "Node.js",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 213,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 213,
+    "Beceri": "JavaScript",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 213,
+    "Beceri": "SQL",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 213,
+    "Beceri": "React",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 213,
+    "Beceri": "Python",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 213,
+    "Beceri": "İletişim",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 214,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 214,
+    "Beceri": "Liderlik",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 215,
+    "Beceri": "Liderlik",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 215,
+    "Beceri": "JavaScript",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 215,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 215,
+    "Beceri": "Veri Analizi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 216,
+    "Beceri": "React",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 216,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 216,
+    "Beceri": "Veri Analizi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 216,
+    "Beceri": "SQL",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 216,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 217,
+    "Beceri": "React",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 217,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 217,
+    "Beceri": "Python",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 217,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 217,
+    "Beceri": "Veri Analizi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 218,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 218,
+    "Beceri": "React",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 218,
+    "Beceri": "SQL",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 219,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 219,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 219,
+    "Beceri": "İletişim",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 219,
+    "Beceri": "Node.js",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 219,
+    "Beceri": "JavaScript",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 219,
+    "Beceri": "Python",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 220,
+    "Beceri": "React",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 220,
+    "Beceri": "Node.js",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 220,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 220,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 220,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 221,
+    "Beceri": "React",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 221,
+    "Beceri": "Node.js",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 221,
+    "Beceri": "SQL",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 221,
+    "Beceri": "Python",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 221,
+    "Beceri": "Liderlik",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 222,
+    "Beceri": "JavaScript",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 222,
+    "Beceri": "Python",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 223,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 223,
+    "Beceri": "İletişim",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 223,
+    "Beceri": "Node.js",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 223,
+    "Beceri": "Python",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 223,
+    "Beceri": "Veri Analizi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 224,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 224,
+    "Beceri": "React",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 225,
+    "Beceri": "Node.js",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 225,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 225,
+    "Beceri": "React",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 225,
+    "Beceri": "Liderlik",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 225,
+    "Beceri": "SQL",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 226,
+    "Beceri": "Node.js",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 226,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 226,
+    "Beceri": "React",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 226,
+    "Beceri": "İletişim",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 226,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 227,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 227,
+    "Beceri": "İletişim",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 227,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 227,
+    "Beceri": "Veri Analizi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 227,
+    "Beceri": "Python",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 228,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 228,
+    "Beceri": "İletişim",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 228,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 228,
+    "Beceri": "React",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 229,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 229,
+    "Beceri": "Liderlik",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 229,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 229,
+    "Beceri": "Veri Analizi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 229,
+    "Beceri": "İletişim",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 230,
+    "Beceri": "Veri Analizi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 230,
+    "Beceri": "İletişim",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 231,
+    "Beceri": "İletişim",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 231,
+    "Beceri": "Veri Analizi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 231,
+    "Beceri": "JavaScript",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 231,
+    "Beceri": "Liderlik",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 231,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 231,
+    "Beceri": "SQL",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 232,
+    "Beceri": "JavaScript",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 232,
+    "Beceri": "Veri Analizi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 233,
+    "Beceri": "React",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 233,
+    "Beceri": "SQL",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 233,
+    "Beceri": "Node.js",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 233,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 234,
+    "Beceri": "React",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 234,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 234,
+    "Beceri": "SQL",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 234,
+    "Beceri": "JavaScript",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 235,
+    "Beceri": "Veri Analizi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 235,
+    "Beceri": "Liderlik",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 235,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 236,
+    "Beceri": "Node.js",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 236,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 236,
+    "Beceri": "İletişim",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 236,
+    "Beceri": "React",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 236,
+    "Beceri": "JavaScript",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 237,
+    "Beceri": "Node.js",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 237,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 237,
+    "Beceri": "SQL",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 237,
+    "Beceri": "Veri Analizi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 237,
+    "Beceri": "React",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 238,
+    "Beceri": "Veri Analizi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 238,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 238,
+    "Beceri": "React",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 238,
+    "Beceri": "SQL",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 239,
+    "Beceri": "Liderlik",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 239,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 240,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 240,
+    "Beceri": "React",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 240,
+    "Beceri": "Python",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 240,
+    "Beceri": "Veri Analizi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 240,
+    "Beceri": "Liderlik",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 241,
+    "Beceri": "Liderlik",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 241,
+    "Beceri": "Node.js",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 241,
+    "Beceri": "SQL",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 241,
+    "Beceri": "Veri Analizi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 242,
+    "Beceri": "Liderlik",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 242,
+    "Beceri": "İletişim",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 243,
+    "Beceri": "İletişim",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 243,
+    "Beceri": "SQL",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 244,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 244,
+    "Beceri": "Veri Analizi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 244,
+    "Beceri": "Node.js",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 244,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 245,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 245,
+    "Beceri": "JavaScript",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 245,
+    "Beceri": "Veri Analizi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 245,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 246,
+    "Beceri": "Python",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 246,
+    "Beceri": "Node.js",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 246,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 246,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 247,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 247,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 248,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 248,
+    "Beceri": "JavaScript",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 248,
+    "Beceri": "SQL",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 249,
+    "Beceri": "Liderlik",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 249,
+    "Beceri": "SQL",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 250,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 250,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 251,
+    "Beceri": "Liderlik",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 251,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 251,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 251,
+    "Beceri": "JavaScript",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 251,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 251,
+    "Beceri": "Python",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 252,
+    "Beceri": "Node.js",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 252,
+    "Beceri": "JavaScript",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 253,
+    "Beceri": "Node.js",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 253,
+    "Beceri": "JavaScript",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 253,
+    "Beceri": "Python",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 253,
+    "Beceri": "React",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 254,
+    "Beceri": "İletişim",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 254,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 254,
+    "Beceri": "Python",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 254,
+    "Beceri": "Veri Analizi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 254,
+    "Beceri": "Liderlik",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 255,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 255,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 255,
+    "Beceri": "Node.js",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 255,
+    "Beceri": "Python",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 255,
+    "Beceri": "Veri Analizi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 256,
+    "Beceri": "Python",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 256,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 256,
+    "Beceri": "JavaScript",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 256,
+    "Beceri": "Liderlik",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 257,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 257,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 258,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 258,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 258,
+    "Beceri": "Veri Analizi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 258,
+    "Beceri": "React",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 258,
+    "Beceri": "İletişim",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 258,
+    "Beceri": "SQL",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 259,
+    "Beceri": "Veri Analizi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 259,
+    "Beceri": "JavaScript",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 259,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 259,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 259,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 260,
+    "Beceri": "Liderlik",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 260,
+    "Beceri": "SQL",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 261,
+    "Beceri": "Veri Analizi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 261,
+    "Beceri": "JavaScript",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 261,
+    "Beceri": "Python",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 261,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 262,
+    "Beceri": "Node.js",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 262,
+    "Beceri": "SQL",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 263,
+    "Beceri": "İletişim",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 263,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 263,
+    "Beceri": "Node.js",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 263,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 263,
+    "Beceri": "JavaScript",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 264,
+    "Beceri": "React",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 264,
+    "Beceri": "Node.js",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 265,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 265,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 266,
+    "Beceri": "SQL",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 266,
+    "Beceri": "Python",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 266,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 266,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 266,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 266,
+    "Beceri": "Veri Analizi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 267,
+    "Beceri": "Python",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 267,
+    "Beceri": "SQL",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 267,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 267,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 268,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 268,
+    "Beceri": "Veri Analizi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 268,
+    "Beceri": "İletişim",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 268,
+    "Beceri": "SQL",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 268,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 269,
+    "Beceri": "SQL",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 269,
+    "Beceri": "İletişim",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 269,
+    "Beceri": "Python",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 269,
+    "Beceri": "Liderlik",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 269,
+    "Beceri": "Veri Analizi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 269,
+    "Beceri": "React",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 270,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 270,
+    "Beceri": "Veri Analizi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 270,
+    "Beceri": "Node.js",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 270,
+    "Beceri": "SQL",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 270,
+    "Beceri": "Liderlik",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 271,
+    "Beceri": "Veri Analizi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 271,
+    "Beceri": "SQL",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 271,
+    "Beceri": "Liderlik",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 271,
+    "Beceri": "Python",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 272,
+    "Beceri": "Veri Analizi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 272,
+    "Beceri": "Python",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 272,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 273,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 273,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 273,
+    "Beceri": "İletişim",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 273,
+    "Beceri": "Veri Analizi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 273,
+    "Beceri": "React",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 274,
+    "Beceri": "Veri Analizi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 274,
+    "Beceri": "Python",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 274,
+    "Beceri": "İletişim",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 274,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 274,
+    "Beceri": "SQL",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 275,
+    "Beceri": "JavaScript",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 275,
+    "Beceri": "Veri Analizi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 276,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 276,
+    "Beceri": "İletişim",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 276,
+    "Beceri": "SQL",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 276,
+    "Beceri": "React",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 276,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 276,
+    "Beceri": "Veri Analizi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 277,
+    "Beceri": "Python",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 277,
+    "Beceri": "Node.js",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 277,
+    "Beceri": "React",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 277,
+    "Beceri": "SQL",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 277,
+    "Beceri": "İletişim",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 277,
+    "Beceri": "Liderlik",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 278,
+    "Beceri": "Liderlik",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 278,
+    "Beceri": "Python",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 278,
+    "Beceri": "Node.js",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 278,
+    "Beceri": "JavaScript",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 279,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 279,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 279,
+    "Beceri": "SQL",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 280,
+    "Beceri": "İletişim",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 280,
+    "Beceri": "React",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 280,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 280,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 281,
+    "Beceri": "İletişim",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 281,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 282,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 282,
+    "Beceri": "İletişim",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 283,
+    "Beceri": "Liderlik",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 283,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 283,
+    "Beceri": "Node.js",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 283,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 283,
+    "Beceri": "SQL",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 284,
+    "Beceri": "Liderlik",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 284,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 284,
+    "Beceri": "React",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 285,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 285,
+    "Beceri": "Liderlik",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 285,
+    "Beceri": "React",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 285,
+    "Beceri": "SQL",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 285,
+    "Beceri": "Node.js",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 286,
+    "Beceri": "Python",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 286,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 286,
+    "Beceri": "Liderlik",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 287,
+    "Beceri": "Liderlik",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 287,
+    "Beceri": "SQL",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 288,
+    "Beceri": "React",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 288,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 288,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 288,
+    "Beceri": "Node.js",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 288,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 289,
+    "Beceri": "SQL",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 289,
+    "Beceri": "Veri Analizi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 289,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 289,
+    "Beceri": "JavaScript",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 289,
+    "Beceri": "React",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 289,
+    "Beceri": "Liderlik",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 290,
+    "Beceri": "Liderlik",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 290,
+    "Beceri": "JavaScript",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 290,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 290,
+    "Beceri": "Node.js",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 290,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 290,
+    "Beceri": "Veri Analizi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 291,
+    "Beceri": "Node.js",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 291,
+    "Beceri": "Liderlik",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 291,
+    "Beceri": "İletişim",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 291,
+    "Beceri": "React",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 291,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 291,
+    "Beceri": "JavaScript",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 292,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 292,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 292,
+    "Beceri": "Python",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 292,
+    "Beceri": "Node.js",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 292,
+    "Beceri": "Liderlik",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 292,
+    "Beceri": "SQL",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 293,
+    "Beceri": "JavaScript",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 293,
+    "Beceri": "Liderlik",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 293,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 293,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 294,
+    "Beceri": "JavaScript",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 294,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 294,
+    "Beceri": "Python",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 294,
+    "Beceri": "React",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 294,
+    "Beceri": "Veri Analizi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 295,
+    "Beceri": "React",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 295,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 295,
+    "Beceri": "SQL",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 295,
+    "Beceri": "Python",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 296,
+    "Beceri": "Node.js",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 296,
+    "Beceri": "Python",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 296,
+    "Beceri": "İletişim",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 296,
+    "Beceri": "SQL",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 296,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 297,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 297,
+    "Beceri": "React",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 297,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 297,
+    "Beceri": "SQL",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 297,
+    "Beceri": "İletişim",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 298,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 298,
+    "Beceri": "SQL",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 298,
+    "Beceri": "Veri Analizi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 298,
+    "Beceri": "React",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 298,
+    "Beceri": "İletişim",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 299,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 299,
+    "Beceri": "Liderlik",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 300,
+    "Beceri": "React",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 300,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 300,
+    "Beceri": "Liderlik",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 300,
+    "Beceri": "SQL",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 300,
+    "Beceri": "Python",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 301,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 301,
+    "Beceri": "SQL",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 301,
+    "Beceri": "Node.js",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 302,
+    "Beceri": "Node.js",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 302,
+    "Beceri": "İletişim",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 302,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 302,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 303,
+    "Beceri": "SQL",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 303,
+    "Beceri": "Makine Öğrenmesi",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 303,
+    "Beceri": "Proje Yönetimi",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 303,
+    "Beceri": "Python",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 304,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 304,
+    "Beceri": "Node.js",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 304,
+    "Beceri": "SQL",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 304,
+    "Beceri": "React",
+    "Seviye": "Başlangıç"
+  },
+  {
+    "Calisan_ID": 305,
+    "Beceri": "İletişim",
+    "Seviye": "Orta"
+  },
+  {
+    "Calisan_ID": 305,
+    "Beceri": "Yapay Zeka",
+    "Seviye": "İleri"
+  },
+  {
+    "Calisan_ID": 305,
+    "Beceri": "Veri Analizi",
+    "Seviye": "İleri"
+  }
+]
